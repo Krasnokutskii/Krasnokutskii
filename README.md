@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Krasnokutskii Iaroslav
 - 👀 I’m interested in Swift and all stuff connected to it.
 - 🌱 I’m currently learning UIKit, Combine, SwiftUI and have strong intention of starting RxSwift 
-- 📫 How to reach me:  
-                   📲 Telegram - @RickKras
+- 📫 How to reach me:           📲 Telegram - @RickKras
           
   
 
