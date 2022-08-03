@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Krasnokutskii Iaroslav
-- 👀 I’m interested in Swift and all stuff connected to it.
-- 🌱 I’m currently learning UIKit, Combine, SwiftUI and have strong intention of starting RxSwift 
+- 👀 I’m an IOS developer
+- 💻 I have commercial experience in MVC, MVVM, MVVM+C, UIKit, RxSwift.  
+- 🌱 I have reletively small experience with Combine, SwiftUI, and Objective C.
+- 🇺🇸 Englis - B2.
 - 📫 How to reach me:           📲 Telegram - @RickKras
           
   
