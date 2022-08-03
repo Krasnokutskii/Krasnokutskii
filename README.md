@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Krasnokutskii Iaroslav
 - 👀 I’m an IOS developer
 - 💻 I have commercial experience in MVC, MVVM, MVVM+C, UIKit, RxSwift.  
-- 🌱 I have reletively small experience with Combine, SwiftUI, and Objective C.
+- 🌱 I have reletively small commercial experience with Combine, SwiftUI, and Objective C.
+- 💬 Git, Figma, Slack, Jira, Agile.
 - 🇺🇸 Englis - B2.
 - 📫 How to reach me:           📲 Telegram - @RickKras
           
