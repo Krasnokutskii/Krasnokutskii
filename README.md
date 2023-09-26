@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krasnokutskii Iaroslav.
+### Hi, I’m @Krasnokutskii Iaroslav.
 - 👀 I’m an IOS developer.
 - 💻 I have experience in MVC, MVVM, MVVM+C,
 - 📚 UIKit, RxSwift, Combine, SwiftUI, and Objective C.
