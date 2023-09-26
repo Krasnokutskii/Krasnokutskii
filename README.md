@@ -5,7 +5,10 @@
 - 🎞️ CircleCI,Git.
 - 💬 Figma, Slack, Jira, Agile.
 - 🇺🇸 English - B2.
-- 📲 How to reach me: Telegram - @RickKras.
+
+
+### How to reach me:
+- 📲 Telegram - @RickKras.
 - 🧑‍💻 [Linkedin](https://www.linkedin.com/in/iaroslav-krasnokutskii-a74ba819b)
 
 
